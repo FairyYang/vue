@@ -1,5 +1,5 @@
 export const SSR_ATTR = 'data-server-rendered'
-// vue中需要用到的变量
+// vue中需要用到的变量,不可用字段
 export const ASSET_TYPES = [
   'component',
   'directive',
